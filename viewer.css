@@ -1,0 +1,49 @@
+#search-icn {
+  height: 30px;
+}
+.header {
+  color: white;
+  background: #525E54;
+  height: 100px;
+  padding: 30px;
+}
+.header h4 {
+  font-size: 30px;
+  font-weight: bold;
+}
+#search-btn {
+  color: white;
+  background: #0099BC;
+}
+#search-btn:hover {
+  cursor: pointer;
+  -webkit-box-shadow: 1px 0px 5px 0px rgba(0, 0, 0, 0.75);
+  -moz-box-shadow: 1px 0px 5px 0px rgba(0, 0, 0, 0.75);
+  box-shadow: 1px 0px 5px 0px rgba(0, 0, 0, 0.75);
+}
+
+.random {
+  background: #0099BC;
+  color: white !important;
+  padding: 5px 10px;
+  border-radius: 5px;
+}
+.random:hover {
+  text-decoration: none;
+  -webkit-box-shadow: 1px 0px 5px 0px rgba(0, 0, 0, 0.75);
+  -moz-box-shadow: 1px 0px 5px 0px rgba(0, 0, 0, 0.75);
+  box-shadow: 1px 0px 5px 0px rgba(0, 0, 0, 0.75);
+}
+.random-wrapper {
+  margin-top: 30px;
+}
+.random-wrapper p {
+  text-align: center;
+  width: 100%;
+}
+.container {
+  font-size: 16px;
+}
+.result {
+  background: rgba(244, 244, 244, 1);
+}
